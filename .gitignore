@@ -1,0 +1,27 @@
+# Ambiente virtual
+virtualenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Outros arquivos temporários
+*.sqlite3
+*.db
+
+# Arquivos de configurações locais
+*.virtualenv
+*.ini
